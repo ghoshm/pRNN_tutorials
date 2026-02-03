@@ -1,5 +1,6 @@
 # pRNN tutorials
 
-A set of tutorials on partially recurrent neural networks. 
+A set of tutorials on [partially recurrent neural networks](https://doi.org/10.1101/2025.07.28.667142).
 
-Note that these are in progress!  
+<img src="./images/All_architectures.png" width="800" >
+
